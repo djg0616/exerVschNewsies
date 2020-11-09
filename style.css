@@ -1,0 +1,18 @@
+h1{
+  display: block;
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+}
+
+p::first-line{
+  font-weight: bold;
+  color:red;
+  background-color: yellow;
+}
+
+p{
+  column-count: 3;
+}
